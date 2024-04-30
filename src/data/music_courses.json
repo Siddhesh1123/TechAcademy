@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Web Development Fundamentals",
+      "slug": "web-development-fundamentals",
+      "description": "Master the basics of web development including HTML, CSS, and JavaScript with this comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/web-development.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Android App Development for Beginners",
+      "slug": "android-app-development-for-beginners",
+      "description": "Start your journey in Android app development with foundational skills taught by expert instructors.",
+      "price": 109.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/android-development.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Software Engineering Techniques",
+      "slug": "advanced-software-engineering-techniques",
+      "description": "Enhance your software engineering skills with advanced techniques tailored for intermediate to advanced learners.",
+      "price": 119.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "/courses/software-engineering.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Machine Learning Mastery",
+      "slug": "machine-learning-mastery",
+      "description": "Master machine learning algorithms and techniques with our comprehensive course covering all skill levels.",
+      "price": 129.99,
+      "instructor": "Mike Brown",
+      "isFeatured": false,
+      "image": "/courses/machine-learning.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Cybersecurity Essentials",
+      "slug": "cybersecurity-essentials",
+      "description": "Learn the fundamental principles of cybersecurity to protect against cyber threats.",
+      "price": 139.99,
+      "instructor": "Chris Davis",
+      "isFeatured": false,
+      "image": "/courses/cybersecurity.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Data Science Fundamentals",
+      "slug": "data-science-fundamentals",
+      "description": "Dive into the world of data science with this introductory course covering basic principles and techniques.",
+      "price": 149.99,
+      "instructor": "Alex Wilson",
+      "isFeatured": true,
+      "image": "/courses/data-science.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Blockchain Development Essentials",
+      "slug": "blockchain-development-essentials",
+      "description": "Learn the essentials of blockchain development to build decentralized applications and smart contracts.",
+      "price": 159.99,
+      "instructor": "Samantha Miller",
+      "isFeatured": false,
+      "image": "/courses/blockchain.jpg"
+    },
+    {
+      "id": 8,
+      "title": "iOS App Development",
+      "slug": "ios-app-development",
+      "description": "Create engaging iOS applications with our course designed for beginners to advanced users.",
+      "price": 169.99,
+      "instructor": "Luke Harris",
+      "isFeatured": true,
+      "image": "/courses/ios-development.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Software Engineering Principles",
+      "slug": "software-engineering-principles",
+      "description": "Explore the principles and best practices of software engineering from design to deployment.",
+      "price": 179.99,
+      "instructor": "Grace Lee",
+      "isFeatured": false,
+      "image": "/courses/software-engineering.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Full Stack Web Development",
+      "slug": "full-stack-web-development",
+      "description": "Master both front-end and back-end web development to become a proficient full stack developer.",
+      "price": 189.99,
+      "instructor": "Ethan Moore",
+      "isFeatured": true,
+      "image": "/courses/full-stack-development.jpg"
+    }
+  ]
+}
