@@ -1,7 +1,7 @@
 "use client";
 
 import { cn } from "@/utils/cn";
-import Image from "next/image";
+
 import React, {
   createContext,
   useState,
@@ -18,10 +18,12 @@ export const CardContainer = ({
   children,
   className,
   containerClassName,
+  height ,
 }: {
   children?: React.ReactNode;
   className?: string;
   containerClassName?: string;
+  height?: string;
 }) => {
   const containerRef = useRef<HTMLDivElement>(null);
   const [isMouseEntered, setIsMouseEntered] = useState(false);
