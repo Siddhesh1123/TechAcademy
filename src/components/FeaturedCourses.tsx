@@ -11,7 +11,7 @@ interface Course {
   price?: number;
   instructor: string;
   isFeatured: boolean;
-  
+  medium?: string;
 }
 
 
@@ -44,7 +44,8 @@ function FeaturedCourses() {
                     {course.description}
                   </p>
                   <Link
-                    href={`/courses/${course.slug}`}
+                    href={course.medium || "/"}
+                    passHref
                     className="hover:text-purple-400 dark:text-white text-white"
                   >
                     Learn More
