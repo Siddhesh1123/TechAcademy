@@ -4,11 +4,12 @@
       "id": 1,
       "title": "Web Development Fundamentals",
       "slug": "web-development-fundamentals",
-      "description": "Master the basics of web development including HTML, CSS, and JavaScript with this comprehensive beginner's course.",
+      "description": "Master the basics of web development including HTML, CSS, and JavaScript ",
       "price": 99.99,
       "instructor": "John Doe",
       "isFeatured": true,
-      "image": "/courses/web-development.jpg"
+      "image": "/courses/web-development.jpg",
+      "medium" : "https://medium.com/@teamtechsis/web-development-fundamentals-every-developer-needs-to-know-62295c25ef95"
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "price": 109.99,
       "instructor": "Jane Smith",
       "isFeatured": false,
-      "image": "/courses/android-development.jpg"
+      "image": "/courses/android-development.jpg",
+      "medium" : "https://medium.com/@mtcpe.fy/android-app-development-guide-for-beginners-d38b8b8deace"
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "price": 119.99,
       "instructor": "Emily Johnson",
       "isFeatured": true,
-      "image": "/courses/software-engineering.jpg"
+      "image": "/courses/software-engineering.jpg",
+      "medium" : "https://medium.com/@jducoeur/like-so-many-software-engineering-techniques-pair-programming-is-a-good-idea-that-often-gets-19541abaa1ae"
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "price": 129.99,
       "instructor": "Mike Brown",
       "isFeatured": false,
-      "image": "/courses/machine-learning.jpg"
+      "image": "/courses/machine-learning.jpg",
+      "medium" : "https://medium.com/data-analytics-magazine/unleash-the-power-of-support-vector-machines-your-secret-weapon-in-machine-learning-mastery-89515d422afb"
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "price": 139.99,
       "instructor": "Chris Davis",
       "isFeatured": false,
-      "image": "/courses/cybersecurity.jpg"
+      "image": "/courses/cybersecurity.jpg",
+      "medium" : "https://medium.com/@fabric-vc/why-we-invested-in-resonance-security-a-path-towards-complete-community-driven-cybersecurity-de04f1d66903"
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "price": 149.99,
       "instructor": "Alex Wilson",
       "isFeatured": true,
-      "image": "/courses/data-science.jpg"
+      "image": "/courses/data-science.jpg",
+      "medium" : "https://medium.com/design-bootcamp/analytics-and-data-science-fundamentals-for-product-managers-efb3c82764fc"
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
       "price": 159.99,
       "instructor": "Samantha Miller",
       "isFeatured": false,
-      "image": "/courses/blockchain.jpg"
+      "image": "/courses/blockchain.jpg",
+      "medium" : "https://medium.com/@chetan.nrao/blockchain-essentials-a-beginners-guide-to-understanding-and-building-on-the-decentralized-web-27fd5abde7a5"
     },
     {
       "id": 8,
@@ -78,7 +85,8 @@
       "price": 169.99,
       "instructor": "Luke Harris",
       "isFeatured": true,
-      "image": "/courses/ios-development.jpg"
+      "image": "/courses/ios-development.jpg",
+      "medium" : "https://medium.com/ux-planet/2024-ios-app-trends-the-future-of-ios-app-development-c859f64a73fe"
     },
     {
       "id": 9,
@@ -88,7 +96,8 @@
       "price": 179.99,
       "instructor": "Grace Lee",
       "isFeatured": false,
-      "image": "/courses/software-engineering.jpg"
+      "image": "/courses/software-engineering.jpg",
+      "medium" : "https://medium.com/stackademic/beyond-code-the-universal-application-of-software-engineering-principles-b8187b2d2825"
     },
     {
       "id": 10,
@@ -98,7 +107,8 @@
       "price": 189.99,
       "instructor": "Ethan Moore",
       "isFeatured": true,
-      "image": "/courses/web-development.jpg"
+      "image": "/courses/web-development.jpg",
+      "medium" : "https://medium.com/@tracyrenee61/youtube-course-review-full-stack-web-development-for-beginners-41cde0085b99"
     }
   ]
 }

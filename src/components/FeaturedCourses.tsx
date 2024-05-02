@@ -45,7 +45,7 @@ function FeaturedCourses() {
                   </p>
                   <Link
                     href={`/courses/${course.slug}`}
-                    className="hover:text-purple-400"
+                    className="hover:text-purple-400 dark:text-white text-white"
                   >
                     Learn More
                   </Link>
