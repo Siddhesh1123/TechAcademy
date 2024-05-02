@@ -27,7 +27,7 @@ function page() {
       </h1>
       <div className="flex flex-wrap justify-center ">
         {courseData.courses.map((course: Course) => (
-          <CardContainer className="inter-var m-5">
+          <CardContainer key={course.id} className="inter-var m-5">
             <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.3] border-black/[0.1] w-auto sm:w-[30rem] h-[720px] rounded-xl p-6 border  ">
               <CardItem
                 translateZ="50"
