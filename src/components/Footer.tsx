@@ -79,7 +79,7 @@ function Footer() {
         </div>
       </div>
       <p className="text-center text-xs pt-8">
-        © 2024 Music School. All rights reserved.
+        © 2024 Tech Academy. All rights reserved.
       </p>
     </footer>
   );
