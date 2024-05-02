@@ -7,8 +7,8 @@ import Navbar from "@/components/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Teach Academy",
-  description: "Teach Academy is a platform for learning and teaching",
+  title: "Tech Academy",
+  description: "Tech Academy is a platform for learning and teaching",
   icons: {
     icon: "/courses/TechAcademy.png",
     
